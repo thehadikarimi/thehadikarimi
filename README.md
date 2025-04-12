@@ -15,7 +15,7 @@ const HadiKarimi = {
   },
   myStack: {
     frontEnd: {
-      frameworks: ["ReactJS", "Next.js"],
+      frameworks: ["React.js", "Next.js"],
       styling: ["TailwindCSS", "MUI (Material-UI)"],
       stateManagement: ["React Query"],
       formHandling: ["React Hook Form"],
