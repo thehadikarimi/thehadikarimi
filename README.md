@@ -1,45 +1,44 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&color=3C6DF0"/>
 
-I'm Hadi Karimi, a passionate Frontend Developer specializing in building dynamic, responsive and user-friendly websites
+<h3 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">, I'm Hadi Karimi</h3>
 
-### A little more about me
+<h4 align="center">FrontEnd Developer | ReactJs | NextJs</h4>
 
-```javascript
-const HadiKarimi = {
-  pronouns: "He" | "Him",
-  aboutMe: "I'm a Frontend Developer with skills in NextJs and ReactJs",
-  languages: ["JavaScript"],
-  markupAndStyles: {
-    markup: ["HTML"],
-    styles: ["CSS"],
-  },
-  myStack: {
-    frontEnd: {
-      frameworks: ["ReactJs", "NextJs"],
-      styling: ["TailwindCSS", "MUI (Material-UI)"],
-      stateManagement: ["React Query"],
-      formHandling: ["React Hook Form"],
-    },
-    apiIntegration: ["RESTful APIs"],
-  },
-  currentFocus: "Building responsive and user-friendly web applications",
-};
-```
+<br/>
 
-### 💻 Skills
+### 💫 About Me
 
-![My Skills](https://skillicons.dev/icons?i=html)
-![My Skills](https://skillicons.dev/icons?i=css)
-![My Skills](https://skillicons.dev/icons?i=js)
-![My Skills](https://skillicons.dev/icons?i=react)
-![My Skills](https://skillicons.dev/icons?i=nextjs)
-![My Skills](https://skillicons.dev/icons?i=git)
-![My Skills](https://skillicons.dev/icons?i=github)
-![My Skills](https://skillicons.dev/icons?i=tailwind)
-![My Skills](https://skillicons.dev/icons?i=materialui)
+I'm a passionate FrontEnd Developer specializing in building dynamic, responsive and user-friendly web applications. I enjoy constantly learning and improving my skills in the FrontEnd domain.
 
-### 📫 Connect me
+---
 
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logoColor=white" style="height: 32px;" />](mailto:thekarimihadi@gmail.com)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logoColor=white" style="height: 32px;" />](https://www.linkedin.com/in/thehadikarimi)
-[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-34B7F1?style=flat&logoColor=white" style="height: 32px;" />](https://t.me/thehadikarimi)
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=5ED3F3" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05030?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST APIs-4A90E2?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+Have a question or idea? Let's connect!
+
+<p align="left">
+  <a href="https://linkedin.com/in/thehadikarimi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/thehadikarimi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:thekarimihadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
